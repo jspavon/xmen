@@ -1,0 +1,17 @@
+C:\projects\clients\personal\backEnd\xmen\xmen.core\bin\Debug\net5.0\xmen.core.deps.json
+C:\projects\clients\personal\backEnd\xmen\xmen.core\bin\Debug\net5.0\xmen.core.dll
+C:\projects\clients\personal\backEnd\xmen\xmen.core\bin\Debug\net5.0\ref\xmen.core.dll
+C:\projects\clients\personal\backEnd\xmen\xmen.core\bin\Debug\net5.0\xmen.core.pdb
+C:\projects\clients\personal\backEnd\xmen\xmen.core\bin\Debug\net5.0\xmen.common.dll
+C:\projects\clients\personal\backEnd\xmen\xmen.core\bin\Debug\net5.0\xmen.infraestructure.dll
+C:\projects\clients\personal\backEnd\xmen\xmen.core\bin\Debug\net5.0\xmen.common.pdb
+C:\projects\clients\personal\backEnd\xmen\xmen.core\bin\Debug\net5.0\xmen.infraestructure.pdb
+C:\projects\clients\personal\backEnd\xmen\xmen.core\obj\Debug\net5.0\xmen.core.csproj.AssemblyReference.cache
+C:\projects\clients\personal\backEnd\xmen\xmen.core\obj\Debug\net5.0\xmen.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\clients\personal\backEnd\xmen\xmen.core\obj\Debug\net5.0\xmen.core.AssemblyInfoInputs.cache
+C:\projects\clients\personal\backEnd\xmen\xmen.core\obj\Debug\net5.0\xmen.core.AssemblyInfo.cs
+C:\projects\clients\personal\backEnd\xmen\xmen.core\obj\Debug\net5.0\xmen.core.csproj.CoreCompileInputs.cache
+C:\projects\clients\personal\backEnd\xmen\xmen.core\obj\Debug\net5.0\xmen.core.csproj.CopyComplete
+C:\projects\clients\personal\backEnd\xmen\xmen.core\obj\Debug\net5.0\xmen.core.dll
+C:\projects\clients\personal\backEnd\xmen\xmen.core\obj\Debug\net5.0\ref\xmen.core.dll
+C:\projects\clients\personal\backEnd\xmen\xmen.core\obj\Debug\net5.0\xmen.core.pdb
