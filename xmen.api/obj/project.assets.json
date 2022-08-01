@@ -3903,19 +3903,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jhon.pavon\\.nuget\\packages\\": {}
+    "C:\\Users\\jpavon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\clients\\personal\\backEnd\\xmen\\xmen.api\\xmen.api.csproj",
+      "projectUniqueName": "C:\\proyectos\\back\\xmen\\xmen.api\\xmen.api.csproj",
       "projectName": "xmen.api",
-      "projectPath": "C:\\projects\\clients\\personal\\backEnd\\xmen\\xmen.api\\xmen.api.csproj",
-      "packagesPath": "C:\\Users\\jhon.pavon\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\clients\\personal\\backEnd\\xmen\\xmen.api\\obj\\",
+      "projectPath": "C:\\proyectos\\back\\xmen\\xmen.api\\xmen.api.csproj",
+      "packagesPath": "C:\\Users\\jpavon\\.nuget\\packages\\",
+      "outputPath": "C:\\proyectos\\back\\xmen\\xmen.api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jhon.pavon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jpavon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3929,14 +3929,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\projects\\clients\\personal\\backEnd\\xmen\\xmen.common\\xmen.common.csproj": {
-              "projectPath": "C:\\projects\\clients\\personal\\backEnd\\xmen\\xmen.common\\xmen.common.csproj"
+            "C:\\proyectos\\back\\xmen\\xmen.common\\xmen.common.csproj": {
+              "projectPath": "C:\\proyectos\\back\\xmen\\xmen.common\\xmen.common.csproj"
             },
-            "C:\\projects\\clients\\personal\\backEnd\\xmen\\xmen.core\\xmen.core.csproj": {
-              "projectPath": "C:\\projects\\clients\\personal\\backEnd\\xmen\\xmen.core\\xmen.core.csproj"
+            "C:\\proyectos\\back\\xmen\\xmen.core\\xmen.core.csproj": {
+              "projectPath": "C:\\proyectos\\back\\xmen\\xmen.core\\xmen.core.csproj"
             },
-            "C:\\projects\\clients\\personal\\backEnd\\xmen\\xmen.infraestructure\\xmen.infraestructure.csproj": {
-              "projectPath": "C:\\projects\\clients\\personal\\backEnd\\xmen\\xmen.infraestructure\\xmen.infraestructure.csproj"
+            "C:\\proyectos\\back\\xmen\\xmen.infraestructure\\xmen.infraestructure.csproj": {
+              "projectPath": "C:\\proyectos\\back\\xmen\\xmen.infraestructure\\xmen.infraestructure.csproj"
             }
           }
         }
@@ -4030,7 +4030,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

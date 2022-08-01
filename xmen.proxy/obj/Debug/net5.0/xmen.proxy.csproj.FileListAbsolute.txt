@@ -10,3 +10,15 @@ C:\projects\clients\personal\backEnd\xmen\xmen.proxy\obj\Debug\net5.0\xmen.proxy
 C:\projects\clients\personal\backEnd\xmen\xmen.proxy\obj\Debug\net5.0\xmen.proxy.dll
 C:\projects\clients\personal\backEnd\xmen\xmen.proxy\obj\Debug\net5.0\ref\xmen.proxy.dll
 C:\projects\clients\personal\backEnd\xmen\xmen.proxy\obj\Debug\net5.0\xmen.proxy.pdb
+C:\proyectos\back\xmen\xmen.proxy\bin\Debug\net5.0\xmen.proxy.deps.json
+C:\proyectos\back\xmen\xmen.proxy\bin\Debug\net5.0\xmen.proxy.dll
+C:\proyectos\back\xmen\xmen.proxy\bin\Debug\net5.0\ref\xmen.proxy.dll
+C:\proyectos\back\xmen\xmen.proxy\bin\Debug\net5.0\xmen.proxy.pdb
+C:\proyectos\back\xmen\xmen.proxy\obj\Debug\net5.0\xmen.proxy.csproj.AssemblyReference.cache
+C:\proyectos\back\xmen\xmen.proxy\obj\Debug\net5.0\xmen.proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\back\xmen\xmen.proxy\obj\Debug\net5.0\xmen.proxy.AssemblyInfoInputs.cache
+C:\proyectos\back\xmen\xmen.proxy\obj\Debug\net5.0\xmen.proxy.AssemblyInfo.cs
+C:\proyectos\back\xmen\xmen.proxy\obj\Debug\net5.0\xmen.proxy.csproj.CoreCompileInputs.cache
+C:\proyectos\back\xmen\xmen.proxy\obj\Debug\net5.0\xmen.proxy.dll
+C:\proyectos\back\xmen\xmen.proxy\obj\Debug\net5.0\ref\xmen.proxy.dll
+C:\proyectos\back\xmen\xmen.proxy\obj\Debug\net5.0\xmen.proxy.pdb

@@ -95,8 +95,8 @@ namespace xmen.Infrastructure.Context
         {
             if (!optionsBuilder.IsConfigured)
             {
-                var stringConnect = "Data Source=tcp:SWO-79896068;Initial Catalog=db_xmen;Persist Security Info=False;User ID=xmen_user;Password=x123456;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False;Connection Timeout=30;";
-                //var stringConnect2 = _configuration.GetConnectionString("CnxDbContext");
+                //var stringConnect = "Data Source=tcp:P-JPAVON\\SQLSERVER2019;Initial Catalog=xmen_db;Persist Security Info=False;User ID=xmen_user;Password=Xmen1234-;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False;Connection Timeout=30;";
+                var stringConnect = _configuration.GetConnectionString("CnxDbContext");
 
                 if (string.IsNullOrEmpty(_connectionFactory.SqlConnectionConfig))
                 {

@@ -58,17 +58,18 @@ namespace xmen.api.Controllers
         /// <param name="page">The page.</param>
         /// <param name="limit">The limit.</param>
         /// <returns>Task&lt;IActionResult&gt;.</returns>
-        [HttpGet("{page:int}/{limit:int}")]
+        [HttpGet("stats")]
         [ProducesResponseType((int)HttpStatusCode.BadRequest)]
         [ProducesResponseType(typeof(ResponseService<IEnumerable<MutantResponse>>), (int)HttpStatusCode.OK)]
-        public async Task<IActionResult> GetAllAsync(int? page, int? limit)
+        public async Task<IActionResult> GetAllAsync()
         {
             _logger.LogInformation(nameof(GetAllAsync));
 
-            var result = await _service.GetAllAsync(page ?? 1, limit ?? 1000, "Id").ConfigureAwait(false);
+            var result = await _service.GetAllAsync(1, 1000, "Id").ConfigureAwait(false);
 
             var mapper = (result != null && result.Count() > 0) ? result.ToList() : new List<MutantResponse>();
 
+            
             var response = new ResponseService<IEnumerable<MutantResponse>>
             {
                 Status = mapper.Any(),

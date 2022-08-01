@@ -263,19 +263,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jhon.pavon\\.nuget\\packages\\": {}
+    "C:\\Users\\jpavon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\clients\\personal\\backEnd\\xmen\\xmen.proxy\\xmen.proxy.csproj",
+      "projectUniqueName": "C:\\proyectos\\back\\xmen\\xmen.proxy\\xmen.proxy.csproj",
       "projectName": "xmen.proxy",
-      "projectPath": "C:\\projects\\clients\\personal\\backEnd\\xmen\\xmen.proxy\\xmen.proxy.csproj",
-      "packagesPath": "C:\\Users\\jhon.pavon\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\clients\\personal\\backEnd\\xmen\\xmen.proxy\\obj\\",
+      "projectPath": "C:\\proyectos\\back\\xmen\\xmen.proxy\\xmen.proxy.csproj",
+      "packagesPath": "C:\\Users\\jpavon\\.nuget\\packages\\",
+      "outputPath": "C:\\proyectos\\back\\xmen\\xmen.proxy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jhon.pavon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jpavon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -333,7 +333,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

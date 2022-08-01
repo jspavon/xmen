@@ -49,11 +49,24 @@ namespace xmen.core.Services
         {
             var result = _repository.GetAllAsync(x => !x.Deleted, page, limit, orderBy, ascending).Result.OrderBy(x => x.Id);
             var mapper = _mapper.Map<IEnumerable<MutantResponse>>(result);
-            return new List<MutantResponse>();
+
+            return mapper;
         }
 
         public (bool status, int id) Post(MutantDto entity)
         {
+
+            var getAll = _repository.GetAllAsync(x => !x.Deleted).Result.OrderBy(x => x.Id).ToList();
+            if(getAll.Count > 0)
+            {
+                string adnComparer = JsonConvert.SerializeObject(entity.adn);
+
+                foreach (var adn in getAll)
+                {
+                    if (adn.Adn == adnComparer) throw new Exception("Secuence no valid");
+                }
+            }
+
             var (humans, mutants) = getHumansMutants(entity);
 
             Mutant obj = new();
@@ -65,9 +78,9 @@ namespace xmen.core.Services
             obj.CreationUser = GenericConstant.GENERIC_USER;
             obj.CreationDate = DateTime.Now;
 
-            //if (mutantDna > 0) Insert(entity);
+            if (mutants > 0) Insert(obj);
 
-            var result = 1; //_unitOfWork.Save();
+            var result = _unitOfWork.Save();
 
             return (result > 0, mutants); ;
         }
@@ -144,5 +157,6 @@ namespace xmen.core.Services
 
             return (humanAdn, mutantAdn);
         }
+
     }
 }

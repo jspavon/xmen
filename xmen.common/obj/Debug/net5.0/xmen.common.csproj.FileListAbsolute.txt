@@ -10,3 +10,15 @@ C:\projects\clients\personal\backEnd\xmen\xmen.common\obj\Debug\net5.0\xmen.comm
 C:\projects\clients\personal\backEnd\xmen\xmen.common\obj\Debug\net5.0\xmen.common.dll
 C:\projects\clients\personal\backEnd\xmen\xmen.common\obj\Debug\net5.0\ref\xmen.common.dll
 C:\projects\clients\personal\backEnd\xmen\xmen.common\obj\Debug\net5.0\xmen.common.pdb
+C:\proyectos\back\xmen\xmen.common\bin\Debug\net5.0\xmen.common.deps.json
+C:\proyectos\back\xmen\xmen.common\bin\Debug\net5.0\xmen.common.dll
+C:\proyectos\back\xmen\xmen.common\bin\Debug\net5.0\ref\xmen.common.dll
+C:\proyectos\back\xmen\xmen.common\bin\Debug\net5.0\xmen.common.pdb
+C:\proyectos\back\xmen\xmen.common\obj\Debug\net5.0\xmen.common.csproj.AssemblyReference.cache
+C:\proyectos\back\xmen\xmen.common\obj\Debug\net5.0\xmen.common.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\back\xmen\xmen.common\obj\Debug\net5.0\xmen.common.AssemblyInfoInputs.cache
+C:\proyectos\back\xmen\xmen.common\obj\Debug\net5.0\xmen.common.AssemblyInfo.cs
+C:\proyectos\back\xmen\xmen.common\obj\Debug\net5.0\xmen.common.csproj.CoreCompileInputs.cache
+C:\proyectos\back\xmen\xmen.common\obj\Debug\net5.0\xmen.common.dll
+C:\proyectos\back\xmen\xmen.common\obj\Debug\net5.0\ref\xmen.common.dll
+C:\proyectos\back\xmen\xmen.common\obj\Debug\net5.0\xmen.common.pdb
